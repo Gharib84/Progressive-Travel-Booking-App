@@ -4,6 +4,8 @@
 
 Progressive Travel Booking for Trips is a robust and scalable web application designed to power modern excursion booking platforms. Built with cutting-edge technologies, this backend solution provides comprehensive functionalities for managing trips, clients, orders, and payments (coming soon).
 
+<img src="./travel.png" alt="shocase" width="300" height="200">
+
 ## Key Features
 
 ### Trip Management
