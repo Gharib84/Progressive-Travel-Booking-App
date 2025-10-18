@@ -32,6 +32,7 @@ Progressive Travel Booking for Trips is a robust and scalable web application de
 - **Swagger:** Interactive API documentation
 - **TailwindCss:** Interactive CSS Framework
 - **Swagger:** Interactive API documentation
+- **Leaflet:** JavaScript library used to build web mapping applications
 
 ## Advanced Features
 
